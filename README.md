@@ -1,4 +1,4 @@
-## Example of deep learning projs in Tensorfloe-Keras and Tensorflow.js.
+## Example of deep learning projs in Tensorflow.js.
 
 Explanation on these projects:
 * [Forest Fire Areas  Prediction (Regression) Using TensorFlow.js](https://heartbeat.fritz.ai/deep-learning-with-javascript-part-1-c9a83fe0f063)
