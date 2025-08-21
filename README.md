@@ -1,6 +1,6 @@
 ## Example of deep learning projs in Tensorfloe-Keras and Tensorflow.js.
 
-Links to my articles explaining these projects:
+Explanation on these projects:
 * [Forest Fire Areas  Prediction (Regression) Using TensorFlow.js](https://heartbeat.fritz.ai/deep-learning-with-javascript-part-1-c9a83fe0f063)
 * [Hand-drawn character recognition using TensorFlow.js](https://heartbeat.fritz.ai/deep-learning-in-javascript-part-2-a2823defd3d9)
 * [Custom Real-Time Image Classifier Using Transfer Learning](https://heartbeat.fritz.ai/deep-learning-in-javascript-part-4-294c53cbe28)
